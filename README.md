@@ -6,7 +6,7 @@
 
 [FEMA Incident Command System (ICS)](https://training.fema.gov/emiweb/is/icsresource/index.htm) 
 
-[IS-100.C: Introduction to the Incident Command System, ICS 100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c)
+[FEMA IS-100.C: Introduction to the Incident Command System, ICS 100](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c)
 
 [PagerDuty Incident Response Training Course](https://response.pagerduty.com/training/courses/incident_response/)
 
@@ -18,7 +18,7 @@
 
 [WP29 Opinion 4/2007 on the concept of personal data](https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2007/wp136_en.pdf)  
 
-[Relevant provisions in the GDPR - See Articles 33, 34, 58, 83 and Recitals 75, 85-88](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1528874672298&uri=CELEX:02016R0679-20160504)  
+[GDPR Relevant provisions - See Articles 33, 34, 58, 83 and Recitals 75, 85-88](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1528874672298&uri=CELEX:02016R0679-20160504)  
 
 [Companies Act 2006 General duties of directors](https://www.legislation.gov.uk/ukpga/2006/46/part/10/chapter/2)
 
@@ -44,14 +44,14 @@
 
 [NCSC 10 Steps to cyber security](https://www.ncsc.gov.uk/guidance/10-steps-cyber-security)
 
-[Rapid Risk Reduction](https://www.pwc.co.uk/issues/cyber-security-data-privacy/insights/rapidly-reducing-cyber-risk.html)
+[PwC Rapid Risk Reduction](https://www.pwc.co.uk/issues/cyber-security-data-privacy/insights/rapidly-reducing-cyber-risk.html)
 
-[Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+[Microsoft Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
 
-[Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)  
+[Microsoft Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)  
 
-[Pass-the-hash whitepapers](https://microsoft.com/pth/)
+[Microsoft Pass-the-hash whitepapers](https://microsoft.com/pth/)
 
-[How to mitigate rapid cyberattacks such as Petya and WannaCrypt](https://www.microsoft.com/security/blog/2018/02/21/how-to-mitigate-rapid-cyberattacks-such-as-petya-and-wannacrypt/) 
+[Microsoft How to mitigate rapid cyberattacks such as Petya and WannaCrypt](https://www.microsoft.com/security/blog/2018/02/21/how-to-mitigate-rapid-cyberattacks-such-as-petya-and-wannacrypt/) 
 
-[Active Directory Security Talks](https://adsecurity.org/?page_id=1352)
+[Sean Metcalf's Active Directory Security Talks](https://adsecurity.org/?page_id=1352)
