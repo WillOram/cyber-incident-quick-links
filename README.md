@@ -63,3 +63,6 @@
 [Remediating Targeted Intrusions](https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf)
 
 [Responding to a compromised Office 365 email account](https://docs.microsoft.com/en-us/office365/securitycompliance/responding-to-a-compromised-email-account)
+
+
+A list of links I use to help myself when responding to cyber security incidents. 
