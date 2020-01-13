@@ -55,3 +55,11 @@
 [Microsoft - How to mitigate rapid cyberattacks such as Petya and WannaCrypt](https://www.microsoft.com/security/blog/2018/02/21/how-to-mitigate-rapid-cyberattacks-such-as-petya-and-wannacrypt/) 
 
 [Sean Metcalf's Active Directory Security Talks](https://adsecurity.org/?page_id=1352)
+
+[Securing PowerShell in the Enterprise](https://www.cyber.gov.au/publications/securing-powershell-in-the-enterprise)
+
+[PowerShell Logging](https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html)
+
+[Remediating Targeted Intrusions](https://media.blackhat.com/bh-us-12/Briefings/Aldridge/BH_US_12_Aldridge_Targeted_Intrustion_WP.pdf)
+
+[Responding to a compromised Office 365 email account](https://docs.microsoft.com/en-us/office365/securitycompliance/responding-to-a-compromised-email-account)
