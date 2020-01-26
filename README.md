@@ -30,6 +30,8 @@
 
 [SEC Commission Statement and Guidance on Public Company Cybersecurity Disclosures](https://www.sec.gov/rules/interp/2018/33-10459.pdf)
 
+[Slaughter and May Cyber Security: Corporate insights for companies and their directors](https://www.slaughterandmay.com/media/2536333/cyber-security-corporate-insights-for-companies-and-their-directors.pdf). 
+
 ## Technical 
 
 [NIST cyber Security framework](https://www.nist.gov/cyberframework)
